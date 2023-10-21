@@ -1,4 +1,3 @@
-# Chatgpt4:
 # dx-backend
 
 ## Introduction
@@ -105,7 +104,7 @@ For more details on how to use **dx-backend**, please refer to the documentation
 
 
 
-# Chatgpt4 with emojis:
+<!-- # Chatgpt4 with emojis:
 # dx-backend 🚀
 
 ## Introduction 📚
@@ -139,7 +138,7 @@ To use **dx-backend**, you need to create a configuration file that specifies th
 
 ## License ⚖️
 
-**dx-backend** is licensed under the MIT License. See the `LICENSE` file for more information.
+**dx-backend** is licensed under the MIT License. See the `LICENSE` file for more information. -->
 
 
 
@@ -155,7 +154,6 @@ To use **dx-backend**, you need to create a configuration file that specifies th
 
 
 
-# Bard:
 ### dx-backend: A Backend Problem Solver 🦸‍♂️🦸‍♀️
 
 **What is dx-backend?**
